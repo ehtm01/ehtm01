@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning ...
 
-  ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=plastic&logo=Python&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/mattermost-%230058CC?style=plastic&logo=mattermost&logoColor=ffffff) [![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=plastic&logo=GitHub&logoColor=ffffff)](https://github.com/Fehtm01)
+  ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=plastic&logo=Python&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/mattermost-%230058CC?style=plastic&logo=mattermost&logoColor=ffffff) [![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=plastic&logo=GitHub&logoColor=ffffff)](https://github.com/ehtm01)
 
 
 
