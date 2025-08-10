@@ -18,11 +18,11 @@
 <div markdown="1">
 
 - 2017.03.02 ~ 2024.02.16
-  **PKNU** Department of Electric Engineering, **Display & Semiconductor Engineering**
+<br>**PKNU** Department of Electric Engineering, **Display & Semiconductor Engineering**<br>
 - 2024.04.01 ~ 2024.12.31
-  **Maryalo**
+<br>**Maryalo**<br>
 - 2025.07.08 ~ ing
-  **SSAFY**
+<br>**SSAFY**<br>
 
 </div>
 </details>
