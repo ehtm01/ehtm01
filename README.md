@@ -6,7 +6,7 @@
 
 ---
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehtm01)](https://github.com/ehtm01/github-readme-stats) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehtm01&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
