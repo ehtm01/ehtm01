@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ehtm01/ehtm01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## About me ✨
 
 - 🔭 I’m currently working on ...
+
+  [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehtm01)](https://github.com/ehtm01/github-readme-stats)
+
 - 🌱 I’m currently learning ...
+
+  ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=plastic&logo=Python&logoColor=ffffff)
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+
+  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
