@@ -17,7 +17,12 @@
 <summary>👔Where Am I 👔</summary>
 <div markdown="1">
 
-- 2025.07.08 ~ ing    **SSAFY**
+- 2017.03.02 ~ 2024.02.16
+  **PKNU** Department of Electric Engineering, **Display & Semiconductor Engineering**
+- 2024.04.01 ~ 2024.12.31
+  **Maryalo**
+- 2025.07.08 ~ ing
+  **SSAFY**
 
 </div>
 </details>
