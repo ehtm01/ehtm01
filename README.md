@@ -17,7 +17,7 @@
 <summary>👔Where Am I 👔</summary>
 <div markdown="1">
 
-- 2025.07.08 ~ ing  SSAFY
+- 2025.07.08 ~ ing    **SSAFY**
 
 </div>
 </details>
