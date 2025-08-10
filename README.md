@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=Gradient&height=180&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header)
 
 # Dohyun's GitHub
 
@@ -26,4 +26,4 @@
 </div>
 </details>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=Gradient&height=180&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer)
