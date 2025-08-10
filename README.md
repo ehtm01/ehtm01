@@ -1,4 +1,6 @@
-# Hi there 👋
+# Dohyun Lee
+
+![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=plastic&logo=GitHub&logoColor=ffffff&link=https%3A%2F%2Fgithub.com%2Fehtm01)
 
 ## About me ✨
 
