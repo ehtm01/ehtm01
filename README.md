@@ -6,8 +6,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehtm01&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🔡language🔡
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=plastic&logo=Python&logoColor=ffffff)
+
 ### ⚒️Tools⚒️
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=plastic&logo=Python&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/mattermost-%230058CC?style=plastic&logo=mattermost&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/VSCode-%230078d7) ![Static Badge](https://img.shields.io/badge/Pycharm-%23000000?logo=Pycharm&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/mattermost-%230058CC?style=plastic&logo=mattermost&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/VSCode-%230078d7) ![Static Badge](https://img.shields.io/badge/Pycharm-%23000000?logo=Pycharm&logoColor=ffffff)
 
 <details>
 <summary>👔Where Am I 👔</summary>
