@@ -8,7 +8,7 @@
 
 
 ### 🔡language🔡
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=plastic&logo=Python&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-%23663399?logo=CSS&logoColor=white) ![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?logo=Bootstrap&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=plastic&logo=Python&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-%23663399?logo=CSS&logoColor=white) ![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?logo=Bootstrap&logoColor=white) ![Static Badge](https://img.shields.io/badge/Django-%23092E20?logo=Django)
 
 
 
