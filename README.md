@@ -4,9 +4,7 @@
 
 [![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=plastic&logo=GitHub&logoColor=ffffff)](https://github.com/ehtm01) [![Static Badge](https://img.shields.io/badge/instagram-%23FF0069?style=plastic&logo=instagram&logoColor=ffffff)](https://www.instagram.com/d___ohyun/) [![https://solved.ac/profile/ehtm75](http://mazassumnida.wtf/api/mini/generate_badge?boj=ehtm75)](https://solved.ac/ehtm75)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehtm01&show_icons=true&theme=tokyonight?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehtm01&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔡I learned🔡
 ![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=plastic&logo=Python&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-%23663399?logo=CSS&logoColor=white) ![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?logo=Bootstrap&logoColor=white) ![Static Badge](https://img.shields.io/badge/Django-%23092E20?logo=Django)
