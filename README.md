@@ -12,7 +12,7 @@
 
 
 ### ⚒️Tools⚒️
-![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?logo=GitLab&logoColor=%23ffffff) ![Static Badge](https://img.shields.io/badge/mattermost-%230058CC?style=plastic&logo=mattermost&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/VSCode-%230078d7) ![Static Badge](https://img.shields.io/badge/Pycharm-%23000000?logo=Pycharm&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?logo=GitLab&logoColor=%23ffffff) ![Static Badge](https://img.shields.io/badge/VSCode-%230078d7) ![Static Badge](https://img.shields.io/badge/Pycharm-%23000000?logo=Pycharm&logoColor=ffffff)
 
 <details>
 <summary>👔Where Am I 👔</summary>
