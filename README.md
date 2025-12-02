@@ -7,12 +7,10 @@
 [![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ehtm01&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔡I learned🔡
-![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=plastic&logo=Python&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-%23663399?logo=CSS&logoColor=white) ![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?logo=Bootstrap&logoColor=white) ![Static Badge](https://img.shields.io/badge/Django-%23092E20?logo=Django)
+![Static Badge](https://img.shields.io/badge/Python-%233776AB?style=plastic&logo=Python&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?logo=HTML5&logoColor=white) ![Static Badge](https://img.shields.io/badge/CSS-%23663399?logo=CSS&logoColor=white) ![Static Badge](https://img.shields.io/badge/javascript-%23F7DF1E?logo=javascript&logoColor=%23ffffff)
 
-
-
-### ⚒️Tools⚒️
-![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?logo=GitLab&logoColor=%23ffffff) ![Static Badge](https://img.shields.io/badge/VSCode-%230078d7) ![Static Badge](https://img.shields.io/badge/Pycharm-%23000000?logo=Pycharm&logoColor=ffffff)
+### ⚒️Tools & Frameworks ⚒️
+![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?logo=GitLab&logoColor=%23ffffff) ![Static Badge](https://img.shields.io/badge/VSCode-%230078d7) ![Static Badge](https://img.shields.io/badge/Pycharm-%23000000?logo=Pycharm&logoColor=ffffff) ![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?logo=Bootstrap&logoColor=white) ![Static Badge](https://img.shields.io/badge/Django-%23092E20?logo=Django) <img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-%234FC08D?logo=Vue.js&logoColor=%23ffffff"> ![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?logo=SQLite&logoColor=%23ffffff) ![Static Badge](https://img.shields.io/badge/postman-%23FF6C37?logo=postman&logoColor=%23ffffff)
 
 <details>
 <summary>👔Where Am I 👔</summary>
