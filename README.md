@@ -16,11 +16,14 @@
 ![Static Badge](https://img.shields.io/badge/GitLab-%23FC6D26?logo=GitLab&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/VSCode-%230078d7)
 ![Static Badge](https://img.shields.io/badge/Pycharm-%23000000?logo=Pycharm&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Jira-%230052CC?logo=jira&logoColor=whire)
+![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?logo=SQLite&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/postman-%23FF6C37?logo=postman&logoColor=%23ffffff)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?logo=Bootstrap&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Django-%23092E20?logo=Django)
 <img alt="Static Badge" src="https://img.shields.io/badge/Vue.js-%234FC08D?logo=Vue.js&logoColor=%23ffffff">
-![Static Badge](https://img.shields.io/badge/SQLite-%23003B57?logo=SQLite&logoColor=%23ffffff)
-![Static Badge](https://img.shields.io/badge/postman-%23FF6C37?logo=postman&logoColor=%23ffffff)
+![Static Badge](https://img.shields.io/badge/React-%2361DAFB?logo=React&logoColor=black)
+
 
 <details>
 <summary>👔Where Am I 👔</summary>
