@@ -110,7 +110,6 @@
 <div align="center">
 
 ![Dohyun's GitHub stats](https://github-readme-stats-two-eta-pnbbmttmcc.vercel.app/api?username=ehtm01&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ehtm01&layout=compact&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
