@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&fontSize=50&fontColor=ffffff&animation=fadeIn)
 
 <div align="center">
-<h1 style="font-size: 60px>Dohyun's GitHub</h1>
+<h1>Dohyun's GitHub</h1>
                      
 [![Static Badge](https://img.shields.io/badge/GitHub-%23181717?style=plastic&logo=GitHub&logoColor=ffffff)](https://github.com/ehtm01)
 [![Static Badge](https://img.shields.io/badge/instagram-%23FF0069?style=plastic&logo=instagram&logoColor=ffffff)](https://www.instagram.com/d___ohyun/)
@@ -14,7 +14,9 @@
 ## 👋 About Me
 
 > 프론트엔드와 백엔드를 두루 경험한 풀스택 지향 개발자입니다.
+> 
 > 반도체 제조 현장에서 쌓은 데이터 분석 습관을 소프트웨어 설계로 이어가고 있으며,
+> 
 > **금융권 IT 개발**을 목표로 성장하고 있습니다.
 
 - 🔭 현재 **SSAFY 14기** 과정에서 실전 프로젝트를 진행하고 있습니다.
