@@ -19,7 +19,7 @@
 > 
 > **금융권 IT 개발**을 목표로 성장하고 있습니다.
 
-- 🔭 현재 **SSAFY 14기** 과정에서 실전 프로젝트를 진행하고 있습니다.
+- 🔭 **삼성 청년 SW·AI 아카데미 14기** 과정 수료
 - 🤖 **Claude Code · MCP · Jira 자동화** 등 AI 에이전트를 실무에 적극 활용합니다.
 - 🌱 새로운 기술을 빠르게 학습하고, 팀에서 리더 역할을 맡아 협업합니다.
 
@@ -29,9 +29,9 @@
 
 | 수상 | 대회 | 프로젝트 |
 |:---:|:---|:---|
-| 🥇 최우수상 (1등) | SSAFY 자율 프로젝트 경진대회 | **GluCoach** |
-| 🥈 우수상 (2등) | SSAFY 특화 프로젝트 경진대회 | **GGulJob** |
-| 🏅 우수상 | SSAFY 공통 프로젝트 경진대회 | **HearO** |
+| 🥇 최우수상 (1위) | SSAFY 자율 프로젝트 경진대회 | **GluCoach** |
+| 🥈 우수상 (2위) | SSAFY 특화 프로젝트 경진대회 | **GGulJob** |
+| 🏅 우수상 (3위) | SSAFY 공통 프로젝트 경진대회 | **HearO** |
 
 ---
 
@@ -132,3 +132,8 @@
 </details>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=180&section=footer)
+        Screens</div>
+    </section>
+
+  </body>
+</html>
